@@ -1,5 +1,6 @@
-[![1.jpg](https://i.postimg.cc/wTsB7Scq/1.jpg)](https://postimg.cc/HVdmNvhR)
 TP3 - Aplicación Web para Gestión de Datos de Empresa de Transporte
+[![portada.jpg](https://i.postimg.cc/TP5CKjY5/portada.jpg)](https://postimg.cc/p9xD7FjP)
+
 Descripción del Proyecto
 Este proyecto corresponde al Trabajo Práctico de (TP3) Tecnicas de Programacion 3. 
 El objetivo del proyecto es desarrollar una aplicación web que permita gestionar datos e información de algunos módulos clave de la empresa.
