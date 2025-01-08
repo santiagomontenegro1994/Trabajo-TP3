@@ -22,13 +22,15 @@ Backend: [PHP]
 
 Base de Datos: [MySQL]
 
+
 Funcionalidades
+
 Login/Registro de Usuarios: Sistema de autenticación seguro con niveles de acceso.
 
 Dashboard: Visualización de datos y estadísticas clave.
 
 Módulos de Gestión: Sección para gestionar datos específicos de cada módulo de la empresa.
 
-Sistema de Niveles de Acceso
+Sistema de Niveles de Acceso.
 El sistema de login incluye diferentes niveles de acceso. 
 Dependiendo del nivel del usuario, se determina a qué información y funcionalidades pueden acceder dentro de la aplicación.
